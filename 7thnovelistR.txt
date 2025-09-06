@@ -12,6 +12,7 @@
 ;*@@@@@@@@@@@@@@@V1.09@2025/7/12@@@@@@@@*
 ;*@@@@@@@@@@@@@@@V1.10@2025/8/8 @@@@@@@@*
 ;*@@@@@@@@@@@@@@@V1.11@2025/8/21@@@@@@@@*
+;*@@@@@@@@@@@@@@@V1.12@2025/9/9 @@@@@@@@*
 ;****************************************************************
 system Žµ“xŒ¾Œê¬à¶¬
 {ŠJŽnƒƒbƒZ[ƒW}
@@ -25,7 +26,7 @@ system_mes I—¹ƒƒbƒZ[ƒW
 /
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~iŠ®j
 /
------------~Copy~Right~Žµ“x~—MŠó~i‚È‚Ì‚½‚Ñ~‚ä‚«j~2024/12/27~Ver~1.11~--------
+-----------~Copy~Right~Žµ“x~—MŠó~i‚È‚Ì‚½‚Ñ~‚ä‚«j~2024/12/27~Ver~1.12~--------
 end
 system ¬à‚Ì‰ŠúÝ’è
 [%ƒVƒXƒeƒ€‰Šú‰»++]
@@ -2933,7 +2934,10 @@ set “X‚Í‰®‚ÌÝ’è
 [“X‚ÌŽí—Þ=‰®]
 end
 scene êŠ‚Ì‹Lq
-{<êŠ==—¿—“X>—¿—“X‚Ì‹Lq;êŠ‚Ì–¼‘O}
+{<êŠ==—¿—“X>—¿—“X‚Ì‹Lq<êŠ==ƒtƒ@[ƒXƒgƒt[ƒh“X>ƒtƒ@[ƒXƒgƒt[ƒh“X‚Ì‹Lq;êŠ‚Ì–¼‘O}
+end
+scene ƒtƒ@[ƒXƒgƒt[ƒh“X‚Ì‹Lq
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼]-
 end
 scene êŠ‚Ì–¼‘O
 [êŠ]-
@@ -3796,6 +3800,135 @@ end
 set ‘–¼‚ÍƒCƒ^ƒŠƒA‚ÌÝ’è
 [‘–¼=ƒCƒ^ƒŠƒA]
 end
+set ƒrƒfƒIŽB‰e‚ÌÝ’è
+[ŽÊ^=ƒrƒfƒI]
+end
+select ŒfŽ¦”Â‚Å”„‚éŒÃ’…‚ÌÝ’è
+ŒfŽ¦”Â‚ÅƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‘Ì‘€’…‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒeƒjƒXƒEƒFƒA‚ð”„‚éÝ’è
+end
+select —Žq‘å¶‚ªŒfŽ¦”Â‚Å”„‚éŒÃ’…‚ÌÝ’è
+ŒfŽ¦”Â‚Å‚Z‚ÌŽž’…‚Ä‚¢‚½ƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒeƒjƒXƒEƒFƒA‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ`ƒAƒK[ƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒGƒvƒƒ“ƒhƒŒƒX‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ`ƒƒƒCƒiƒhƒŒƒX‚ð”„‚éÝ’è
+end
+select lÈ‚ªŒfŽ¦”Â‚Å”„‚éŒÃ’…‚ÌÝ’è
+ŒfŽ¦”Â‚ÅƒLƒƒƒ~ƒ\[ƒ‹‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒtƒ@ƒ~ƒŒƒX‚Ì§•ž‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ`ƒAƒK[ƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒeƒjƒXƒEƒFƒA‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒGƒvƒƒ“ƒhƒŒƒX‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ`ƒƒƒCƒiƒhƒŒƒX‚ð”„‚éÝ’è
+end
+select ƒRƒXƒvƒŒ[ƒ„[‚ªƒtƒŠ[ƒ}[ƒPƒbƒg‚Å”„‚éŒÃ’…‚ÌÝ’è
+ŒfŽ¦”Â‚Å”ü­—íŽmƒZ[ƒ‰[ƒ€[ƒ“‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒKƒ‹ƒpƒ“‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚ç‚«™‚·‚½‚ÌƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚ç‚«™‚·‚½‚Ìƒ`ƒAƒK[ƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ}ƒŠ‚Ý‚Ä‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ‰ƒuƒ‰ƒCƒu‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ‰ƒuƒvƒ‰ƒX‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚¯‚¢‚¨‚ñ‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å–‚–@­—‚Ü‚Çƒ}ƒM‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚Æ‚ ‚é–‚p‚Ì‹Ö‘–Ú˜^‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒLƒ‹ƒ‰ƒLƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+end
+select ƒRƒXƒvƒŒ[ƒ„[‚ªŒfŽ¦”Â‚Å”„‚éŒÃ’…‚ÌÝ’è
+ŒfŽ¦”Â‚Å”ü­—íŽmƒZ[ƒ‰[ƒ€[ƒ“‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒKƒ‹ƒpƒ“‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚ç‚«™‚·‚½‚ÌƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚ç‚«™‚·‚½‚Ìƒ`ƒAƒK[ƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ}ƒŠ‚Ý‚Ä‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ‰ƒuƒ‰ƒCƒu‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Åƒ‰ƒuƒvƒ‰ƒX‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚¯‚¢‚¨‚ñ‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å–‚–@­—‚Ü‚Çƒ}ƒM‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚Å‚Æ‚ ‚é–‚p‚Ì‹Ö‘–Ú˜^‚Ìˆß‘•‚ð”„‚éÝ’è
+ŒfŽ¦”Â‚ÅƒLƒ‹ƒ‰ƒLƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+end
+set ŒfŽ¦”Â‚Å”ü­—íŽmƒZ[ƒ‰[ƒ€[ƒ“‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=”ü­—íŽmƒZ[ƒ‰[ƒ€[ƒ“‚ÌƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚ÅƒKƒ‹ƒpƒ“‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=uƒKƒ‹ƒpƒ“v‚Ì‘åô—ŽqŠw‰€‚ÌƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚Å‚ç‚«™‚·‚½‚ÌƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=u‚ç‚«™‚·‚½v‚Ì—Ë÷Šw‰€‚ÌƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚Å‚ç‚«™‚·‚½‚Ìƒ`ƒAƒK[ƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=u‚ç‚«™‚·‚½v‚Ìƒ`ƒAƒK[ƒ‹‚Ìˆß‘•]
+[ŒÃ’…=ƒ`ƒAƒK[ƒ‹‚Ìˆß‘•]
+end
+set ŒfŽ¦”Â‚Åƒ}ƒŠ‚Ý‚Ä‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=uƒ}ƒŠ‚Ý‚Äv‚ÌƒŠƒŠƒAƒ“—Šw‰€‚ÌƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚Åƒ‰ƒuƒ‰ƒCƒu‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=uƒ‰ƒuƒ‰ƒCƒuv‚Ì‰¹ƒm–ØâŠw‰@‚Ì§•ž]
+[ŒÃ’…=§•ž]
+end
+set ŒfŽ¦”Â‚Åƒ‰ƒuƒvƒ‰ƒX‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=uƒ‰ƒuƒvƒ‰ƒXv‚Ì\‰H–ì‚Z‚ÌƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚Å‚¯‚¢‚¨‚ñ‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=u‚¯‚¢‚¨‚ñv‚Ì÷‚ª‹u‚Z‚Ì§•ž]
+[ŒÃ’…=§•ž]
+end
+set ŒfŽ¦”Â‚Å–‚–@­—‚Ü‚Çƒ}ƒM‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=u–‚–@­—‚Ü‚Çƒ}ƒMv‚ÌŒ©‘êŒ´’†Šw‚Ì§•ž]
+[ŒÃ’…=§•ž]
+end
+set ŒfŽ¦”Â‚Å‚Æ‚ ‚é–‚p‚Ì‹Ö‘–Ú˜^‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=u‚Æ‚ ‚é–‚p‚Ì‹Ö‘–Ú˜^v‚Ìí”Õ‘ä’†Šw‚Ì§•ž]
+[ŒÃ’…=§•ž]
+end
+set ŒfŽ¦”Â‚ÅƒLƒ‹ƒ‰ƒLƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=uƒLƒ‹ƒ‰ƒLƒ‹v‚Ì–{”\ŽšŠw‰€‚ÌƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚ÅƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=ŒÃ‚­‚È‚Á‚½ƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚Å‚Z‚ÌŽž’…‚Ä‚¢‚½ƒZ[ƒ‰[•ž‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=‚Z‚ÌŽž‚É’…‚Ä‚¢‚½ƒZ[ƒ‰[•ž]
+[ŒÃ’…=ƒZ[ƒ‰[•ž]
+end
+set ŒfŽ¦”Â‚ÅƒGƒvƒƒ“ƒhƒŒƒX‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=ƒƒCƒh‹i’ƒ‚ÅƒoƒCƒg‚µ‚Ä‚¢‚½Žž‚ÌƒSƒXƒƒŠ‚ÌƒGƒvƒƒ“ƒhƒŒƒX]
+[ŒÃ’…=ƒGƒvƒƒ“ƒhƒŒƒX]
+end
+set ŒfŽ¦”Â‚Å‘Ì‘€’…‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=ŒÃ‚­‚È‚Á‚½‘Ì‘€’…]
+[ŒÃ’…=‘Ì‘€’…]
+end
+set ŒfŽ¦”Â‚ÅƒLƒƒƒ~ƒ\[ƒ‹‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=Ì”ƒ‚Á‚½ƒLƒƒƒ~ƒ\[ƒ‹]
+[ŒÃ’…=ƒLƒƒƒ~ƒ\[ƒ‹]
+end
+set ŒfŽ¦”Â‚Åƒtƒ@ƒ~ƒŒƒX‚Ì§•ž‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=ÌƒoƒCƒg‚µ‚Ä‚½ƒAƒ“ƒiƒ~ƒ‰[ƒY‚ÌƒGƒvƒƒ“ƒhƒŒƒX]
+[ŒÃ’…=ƒGƒvƒƒ“ƒhƒŒƒX]
+end
+set ŒfŽ¦”Â‚Åƒ`ƒAƒK[ƒ‹‚Ìˆß‘•‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=bŽq‰€‚Å‚Z–ì‹…‚Ì‰ž‰‡‚ð‚µ‚½‚Æ‚«‚Ìƒ`ƒAƒK[ƒ‹‚Ìˆß‘•]
+[ŒÃ’…=ƒ`ƒAƒK[ƒ‹‚ÌˆßÖ]
+end
+set ŒfŽ¦”Â‚Åƒ`ƒƒƒCƒiƒhƒŒƒX‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=’†‘‚É—·s‚µ‚½Žž”ƒ‚Á‚½–{ê‚Ìƒ`ƒƒƒCƒiƒhƒŒƒX]
+[ŒÃ’…=ƒ`ƒƒƒCƒiƒhƒŒƒX]
+end
+set ŒfŽ¦”Â‚ÅƒeƒjƒXƒEƒFƒA‚ð”„‚éÝ’è
+[ŒÃ’…‚Ìà–¾=‚¨Ÿ­—Ž‚ÈƒeƒjƒXƒEƒFƒA]
+[ŒÃ’…=ƒeƒjƒXƒEƒFƒA]
+end
 ;****************************************
 ;* ƒtƒ@ƒ~ƒŒƒX   @@@@@@@@@@@  *
 ;****************************************
@@ -3824,6 +3957,154 @@ scene ƒWƒ‡ƒiƒTƒ“‚ÌÝ’è
 end
 scene ƒƒCƒ„ƒ‹ƒzƒXƒg‚ÌÝ’è
 [ƒtƒ@ƒ~ƒŒƒX=ƒƒCƒ„ƒ‹ƒzƒXƒg]
+end
+;****************************************
+;* êŠ         @@@@@@@@@@@  *
+;****************************************
+set ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌÝ’è
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚Ì–¼‘O‚ÌÝ’è}
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌêŠ‚ÌÝ’è}
+end
+set ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌêŠ‚ÌÝ’è
+[êŠ=ƒtƒ@[ƒXƒgƒt[ƒh“X]
+[Œš•¨=ƒtƒ@[ƒXƒgƒt[ƒh“X]
+end
+select ƒtƒ@[ƒXƒgƒt[ƒh“X‚Ì–¼‘O‚ÌÝ’è
+ƒƒbƒeƒŠƒA‚Ì–¼‘O‚ÌÝ’è
+ƒ}ƒNƒhƒiƒ‹ƒh‚Ì–¼‘O‚ÌÝ’è
+ƒtƒ@[ƒXƒgƒLƒbƒ`ƒ“‚Ì–¼‘O‚ÌÝ’è
+ƒ‚ƒXƒo[ƒK[‚Ì–¼‘O‚ÌÝ’è
+ƒEƒFƒ“ƒfƒB[ƒY‚Ì–¼‘O‚ÌÝ’è
+ƒPƒ“ƒ^ƒbƒL[‚Ì–¼‘O‚ÌÝ’è
+end
+set ƒƒbƒeƒŠƒA‚Ì–¼‘O‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼=ƒƒbƒeƒŠƒA]
+{ƒƒbƒeƒŠƒA‚ÌH‚×•¨‚ÌÝ’è}
+end
+set ƒ}ƒNƒhƒiƒ‹ƒh‚Ì–¼‘O‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼=ƒ}ƒNƒhƒiƒ‹ƒh]
+{ƒ}ƒNƒhƒiƒ‹ƒh‚ÌH‚×•¨‚ÌÝ’è}
+end
+set ƒtƒ@[ƒXƒgƒLƒbƒ`ƒ“‚Ì–¼‘O‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼=ƒtƒ@[ƒXƒgƒLƒbƒ`ƒ“]
+{ƒtƒ@[ƒXƒgƒLƒbƒ`ƒ“‚ÌH‚×•¨‚ÌÝ’è}
+end
+set ƒ‚ƒXƒo[ƒK[‚Ì–¼‘O‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼=ƒ‚ƒXƒo[ƒK[]
+{ƒ‚ƒXƒo[ƒK[‚ÌH‚×•¨‚ÌÝ’è}
+end
+set ƒEƒFƒ“ƒfƒB[ƒY‚Ì–¼‘O‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼=ƒEƒFƒ“ƒfƒB[ƒY]
+{ƒEƒFƒ“ƒfƒB[ƒY‚ÌH‚×•¨‚ÌÝ’è}
+end
+set ƒPƒ“ƒ^ƒbƒL[‚Ì–¼‘O‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼=ƒPƒ“ƒ^ƒbƒL[]
+{ƒtƒ‰ƒCƒhƒ`ƒLƒ““X‚ÌH‚×•¨‚ÌÝ’è}
+end
+select ƒ}ƒNƒhƒiƒ‹ƒh‚ÌH‚×•¨‚ÌÝ’è
+ƒnƒ“ƒo[ƒK[‚ÌÝ’è
+ƒrƒbƒOƒ}ƒbƒN‚ÌÝ’è
+ƒ`[ƒYƒo[ƒK[‚ÌÝ’è
+ƒGƒbƒOƒ}ƒtƒBƒ“‚ÌÝ’è
+ƒtƒBƒŒƒIƒtƒBƒbƒVƒ…‚ÌÝ’è
+ŒŽŒ©ƒo[ƒK[‚ÌÝ’è
+end
+select ƒ‚ƒXƒo[ƒK[‚ÌH‚×•¨‚ÌÝ’è
+ƒeƒŠƒ„ƒLƒo[ƒK[‚ÌÝ’è
+ƒ[ƒXƒJƒcƒo[ƒK[‚ÌÝ’è
+ƒGƒrƒJƒcƒo[ƒK[‚ÌÝ’è
+Ä‚«“÷ƒo[ƒK[‚ÌÝ’è
+ƒGƒrƒ`ƒŠƒo[ƒK[‚ÌÝ’è
+end
+select ƒƒbƒeƒŠƒA‚ÌH‚×•¨‚ÌÝ’è
+ƒ`ƒLƒ“ƒJƒcƒo[ƒK[‚ÌÝ’è
+ƒŠƒuƒTƒ“ƒh‚ÌÝ’è
+ƒGƒrƒo[ƒK[‚ÌÝ’è
+â•iƒr[ƒtƒo[ƒK[‚ÌÝ’è
+Ž|hƒr[ƒtƒo[ƒK[‚ÌÝ’è
+ƒx[ƒRƒ“ƒ`[ƒYƒo[ƒK[‚ÌÝ’è
+‹‚·‚«Ä‚«ƒo[ƒK[‚ÌÝ’è
+end
+select ƒtƒ@[ƒXƒgƒLƒbƒ`ƒ“‚ÌH‚×•¨‚ÌÝ’è
+ƒ`ƒLƒ“—³“cƒTƒ“ƒh‚ÌÝ’è
+ƒx[ƒRƒ“ƒGƒbƒOƒo[ƒK[‚ÌÝ’è
+end
+select ƒEƒFƒ“ƒfƒB[ƒY‚ÌH‚×•¨‚ÌÝ’è
+ƒnƒ“ƒo[ƒK[‚ÌÝ’è
+ƒ`[ƒYƒo[ƒK[‚ÌÝ’è
+ƒx[ƒRƒ“ƒGƒbƒOƒo[ƒK[‚ÌÝ’è
+ƒeƒŠƒ„ƒLƒo[ƒK[‚ÌÝ’è
+end
+set ƒrƒbƒOƒ}ƒbƒN‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒrƒbƒOƒ}ƒbƒN]
+end
+set ƒ`[ƒYƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒ`[ƒYƒo[ƒK[]
+end
+set ƒGƒbƒOƒ}ƒtƒBƒ“‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒGƒbƒOƒ}ƒtƒBƒ“]
+end
+set ƒtƒBƒŒƒIƒtƒBƒbƒVƒ…‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒtƒBƒŒƒIƒtƒBƒbƒVƒ…]
+end
+set ŒŽŒ©ƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ŒŽŒ©ƒo[ƒK[]
+end
+set ƒeƒŠƒ„ƒLƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒeƒŠƒ„ƒLƒo[ƒK[]
+end
+set ƒ[ƒXƒJƒcƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒ[ƒXƒJƒcƒo[ƒK[]
+end
+set ƒGƒrƒJƒcƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒGƒrƒJƒcƒo[ƒK[]
+end
+set Ä‚«“÷ƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=Ä‚«“÷ƒo[ƒK[]
+end
+set ƒGƒrƒ`ƒŠƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒGƒrƒ`ƒŠƒo[ƒK[]
+end
+set ƒ`ƒLƒ“ƒJƒcƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒ`ƒLƒ“ƒJƒcƒo[ƒK[]
+end
+set ƒŠƒuƒTƒ“ƒh‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒŠƒuƒTƒ“ƒh]
+end
+set ƒGƒrƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒGƒrƒo[ƒK[]
+end
+set â•iƒr[ƒtƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=â•iƒr[ƒtƒo[ƒK[]
+end
+set Ž|hƒr[ƒtƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=Ž|hƒr[ƒtƒo[ƒK[]
+end
+set ƒx[ƒRƒ“ƒ`[ƒYƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒx[ƒRƒ“ƒ`[ƒYƒo[ƒK[]
+end
+set ‹‚·‚«Ä‚«ƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=‹‚·‚«Ä‚«ƒo[ƒK[]
+end
+set ƒ`ƒLƒ“—³“cƒTƒ“ƒh‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒ`ƒLƒ“—³“cƒTƒ“ƒh]
+end
+set ƒx[ƒRƒ“ƒGƒbƒOƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒx[ƒRƒ“ƒGƒbƒOƒo[ƒK[]
+end
+set ƒnƒ“ƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒnƒ“ƒo[ƒK[]
+end
+select ƒtƒ‰ƒCƒhƒ`ƒLƒ““X‚ÌH‚×•¨‚ÌÝ’è
+ƒ`ƒLƒ“ƒtƒBƒŒƒTƒ“ƒh‚ÌÝ’è
+ƒ`ƒLƒ“ƒtƒBƒŒƒo[ƒK[‚ÌÝ’è
+ƒ`ƒLƒ“ƒJƒcƒo[ƒK[‚ÌÝ’è
+end
+set ƒ`ƒLƒ“ƒtƒBƒŒƒTƒ“ƒh‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒ`ƒLƒ“ƒtƒBƒŒƒTƒ“ƒh]
+end
+set ƒ`ƒLƒ“ƒtƒBƒŒƒo[ƒK[‚ÌÝ’è
+[ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌH‚×•¨=ƒ`ƒLƒ“ƒtƒBƒŒƒo[ƒK[]
 end
 test ——¬ì‰Æ‚ª’†Šw‚Ì“¯‹‰¶‚ÆÄ‰ï‚µƒzƒXƒg‹äŠy•”‚Å‰¼‘z’Ê‰Ý‚Ì–×‚¯˜b
 {&+‰¼‘z’Ê‰Ý‚Ì–×‚¯˜b}
@@ -9635,6 +9916,62 @@ test ——¬ì‰Æ‚ªŽŸ‰ñì‚Ì\‘z‚ð—û‚Á‚Ä‚¢‚½‚ªƒAƒCƒfƒA‚ªŽv‚¢‚Â‚©‚È‚­‚ÄŒ´h‚ÉŽæÞ‚És‚
 {&+ŽŸ‰ñì‚Ì\‘z‚ð—û‚Á‚Ä‚¢‚½‚ªƒAƒCƒfƒA‚ªŽv‚¢‚Â‚©‚È‚¢}
 {——¬ì‰Æ‚ªŒ´h‚ÉŽæÞ‚És‚­}
 end
+test ——¬ì‰Æ‚ª‚r‚m‚r‚ÉŽÊ^‚ðÚ‚¹‚é‚Æ‚«‚ÉŽg‚Á‚½ƒRƒXƒvƒŒ—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{&+‚r‚m‚r‚ÉŽÊ^‚ðÚ‚¹‚é‚Æ‚«‚ÉŽg‚Á‚½ƒRƒXƒvƒŒ—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+test ——¬ì‰Æ‚ª’j—F’B‚É‚à‚ç‚Á‚½ƒvƒŒ[—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{&+’j—F’B‚É‚à‚ç‚Á‚½ƒvƒŒ[—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+test ——¬ì‰Æ‚ªƒnƒƒEƒBƒ“‚Ì‰¼‘•‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{&+ƒnƒƒEƒBƒ“‚Ì‰¼‘•‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+test ——¬ì‰Æ‚ªƒtƒŠ[ƒ}[ƒPƒbƒg‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{&+ƒtƒŠ[ƒ}[ƒPƒbƒg‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+test ——¬ì‰Æ‚ªŒÃ’…‰®‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{&+ŒÃ’…‰®‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+test ——¬ì‰Æ‚ªŒ‹¥Ž®‚Ì—]‹»‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{&+Œ‹¥Ž®‚Ì—]‹»‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+test ——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+{&+o‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ªƒjƒ…[ƒX‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+{&+ƒjƒ…[ƒX‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ª— ƒrƒfƒI‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+{&+— ƒrƒfƒI‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ªƒŒƒfƒB[ƒXƒRƒ~ƒbƒN‚ð“Ç‚ñ‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é˜b‚ðŒ©‚Â‚¯‚é
+{&+ƒŒƒfƒB[ƒXƒRƒ~ƒbƒN‚ð“Ç‚ñ‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é˜b‚ðŒ©‚Â‚¯‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ªƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚Á‚½˜b‚ð“‚Ý•·‚«‚·‚é
+{&+ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚Á‚½˜b‚ð“‚Ý•·‚«‚·‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ªƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚ð–ÚŒ‚‚·‚é
+{&+ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚ð–ÚŒ‚‚·‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚èƒ‰ƒuƒzƒeƒ‹‚ÅƒrƒfƒI‚ÌŽB‰e‚ð‚µ‚Ä’²‹³‚³‚ê‚é
+{&+ƒ‰ƒuƒzƒeƒ‹‚ÅƒrƒfƒI‚ÌŽB‰e‚ð‚µ‚Ä’²‹³‚³‚ê‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
+test ——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚èƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚ÅŽB‰e‚ð‚·‚é
+{&+ƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚ÅŽB‰e‚ð‚·‚é}
+{——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é}
+end
 scene ‰œ‚Ì•”‰®‚Å–ÊÚ‚ªŽn‚Ü‚é
 u‚¶‚á‚ A‚±‚Á‚¿‚Ì•”‰®‚É—ˆ‚Ä‚à‚ç‚¦‚é‚©‚Èv‚Æ[’j]‚ÉˆÄ“à‚³‚ê‚ÄŽ––±Š‚Ì‰œ‚Ì•”‰®‚É’Ê‚³‚ê‚é‚ÆAƒ\ƒtƒ@[‚Ì‘O‚ÉƒrƒfƒIƒJƒƒ‰‚ª’u‚¢‚Ä‚ ‚Á‚Ä—¼˜e‚É‘å‚«‚ÈÆ–¾‘•’u‚ª’u‚¢‚Ä‚ ‚éB
 u‚¶‚á‚ A‚»‚±‚ÉÀ‚Á‚Ä‚à‚ç‚¦‚é‚©‚Èv‚Æ[’j]‚ÉŠ©‚ß‚ç‚ê‚½B
@@ -9827,6 +10164,263 @@ scene ‰œ‚Ì•”‰®‚Åƒ‚ƒfƒ‹‚Ì–ÊÚ‚ðŽó‚¯‚é
 ‚Ì–{“–‚Ì‹CŽ‚¿‚¾‚æ‚ËA‚»‚ê‚ª•·‚«‚½‚©‚Á‚½‚ñ‚¾v‚Æ[’j]‚Í”[“¾‚µ‚½Œû’²‚¾B
 “K“–‚É“š‚¦‚½‚¾‚¯‚È‚Ì‚ÉA–{“–‚Ì‹CŽ‚¿‚¾‚Æ‚©Œ¾‚í‚ê‚Ä•ª‚Æ‚¢‚¢‰ÁŒ¸‚È–ÊÚ‚¾B
 {ƒ‚ƒfƒ‹‚Ì–ÊÚ‚ðŽó‚¯‚éê‡}
+end
+scene ŽB‰e‚Ì‚½‚ß‚Éƒ‰ƒuƒzƒeƒ‹‚ÉˆÄ“à‚³‚ê‚é
+‚Ç‚¤‚â‚çƒ‰ƒuƒzƒeƒ‹‚ç‚µ‚¢B
+‚Ç‚¤‚â‚çÅ‰‚©‚çƒ‰ƒuƒzƒeƒ‹‚É˜A‚ê‚±‚Þ‚Â‚à‚è‚¾‚Á‚½‚ç‚µ‚¢‚Æ‹C‚ª‚Â‚¢‚Ä[—‚Ì–¼‘O]‚Í•sˆÀ‚É‚È‚Á‚½B
+u‚±‚±‚ÅŽB‰e‚·‚é‚ñ‚Å‚·‚©v‚Æ[—‚Ì–¼‘O]‚Íˆê‰ž[’j]‚ÉŠm‚©‚ß‚Ä‚Ý‚½B
+end
+scene ƒ‰ƒuƒzƒeƒ‹‚Ì•”‰®‚ÅŽB‰e‚ð‚·‚é
+u‚¶‚á‚ A‚»‚±‚Ìƒ\ƒtƒ@[‚Ì‘O‚Åƒ|[ƒY‚ðŽæ‚Á‚Ä–á‚¦‚é‚©‚Èv‚Æ[’j]‚ÉŽwŽ¦‚³‚ê‚Ä[—‚Ì–¼‘O]‚ÍŒ¾‚í‚ê‚½’Ê‚è‚Éƒ\ƒtƒ@[‚Ì‘O‚Å—¼Žè‚ðL‚°‚½B
+u‚±‚ñ‚ÈŠ´‚¶‚Å‚¢‚¢‚Å‚·‚©v‚Æ[—‚Ì–¼‘O]‚ª[’j]‚É•·‚¢‚Ä‚Ý‚é‚Æ[’j]‚Íu‚¢‚¢‚ËA‚Æ‚Á‚Ä‚à‰Âˆ¤‚¢‚æA‚¿‚å‚Á‚Æ‰¡‚ðŒü‚¢‚Ä‚à‚ç‚¦‚é‚©‚Èv‚Æ‚ÍŽwŽ¦‚ð‚Â‚Ã‚¯‚½B
+[’j]‚ÍŽB‰e‚ÉŠµ‚ê‚½—lŽq‚ÅAƒ|[ƒY‚ÌŽwŽ¦‚ðo‚µ‚È‚ª‚çŽB‰e‚ª‘±‚¢‚½B
+end
+scene ƒxƒbƒh‚ÉQ‚ÄƒGƒbƒ`‚ÈŽˆ‘Ì‚ðŽB‰e‚·‚é
+u‚¶‚á‚ A¡“x‚Íƒxƒbƒh‚Ì’[‚É˜‚ðŠ|‚¯‚Ä–á‚¦‚é‚©‚Èv‚Æ[’j]‚ªŽwŽ¦‚µ‚Ä‚«‚½B
+[—‚Ì–¼‘O]‚Í[’j]‚ÌŽwŽ¦’Ê‚è‚Éƒxƒbƒh‚Ì’[‚É˜‚ðŠ|‚¯‚½B
+u‰Âˆ¤‚¢‚æ‚»‚¤AŒy‚­”÷Î‚ñ‚Å‚»‚Ì‚Ü‚ÜAŒã‚ë‚É“|‚ê‚Ä‚²‚ç‚ñv‚Æ[’j]‚ªŽwŽ¦‚ð‚Â‚Ã‚¯‚½B
+[—‚Ì–¼‘O]‚ªŒã‚ë‚É”w‚ð“|‚·‚Æ[’j]‚ªŽB‰e‚ð‘±‚¯‚È‚ª‚çu‚¢‚¢‚ËA‘«‚àƒxƒbƒh‚ÉÚ‚¹‚ÄŒ©‚æ‚¤‚©A‚»‚Ì•û‚ª‰Âˆ¤‚¢‚æv‚Æ‚Ü‚½ŽwŽ¦‚ðo‚µ‚Ä‚«‚½B
+u[—‚Ì–¼‘O]‚ªƒxƒbƒh‚Ìã‚É‹ÂŒü‚¯‚ÉQ‚»‚×‚éŠiD‚É‚È‚Á‚Ä[—‚Ì–¼‘O]‚Í‹}‚É’p‚¸‚©‚µ‚­‚È‚Á‚½B
+u‚¶‚á‚ A‘«‚ð¶‰E‚ÉL‚°‚Ä˜‚ðã‚ÉŽ‚¿ã‚°‚é‚ñ‚¾A˜‚ð‚ä‚Á‚­‚èã‰º‚É“®‚©‚µ‚Ä‚²‚ç‚ñv‚Æ[’j]‚ÉŽwŽ¦‚³‚ê‚Ä[—‚Ì–¼‘O]‚Í‚È‚ñ‚¾‚©•Ï‚¾‚Æ‹C‚ª‚Â‚¢‚½B
+[—‚Ì–¼‘O]‚Í[’j]‚ªŠë‚È‚¢ŠiD‚ð‚³‚¹‚æ‚¤‚Æ‚µ‚Ä‚¢‚é‚Ì‚É‹C‚ª•t‚¢‚Äƒxƒbƒh‚©‚ç‹N‚«ã‚ª‚ë‚¤‚Æ‚µ‚½B
+end
+scene o‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+[—‚Ì–¼‘O]‚Í‹C‚É‚È‚Á‚Äo‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚½B
+‚·‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚½B
+‚»‚ê‚à‚©‚È‚è‚‰¿‚È‹àŠz‚Å”ƒ‚¢Žæ‚é‚ç‚µ‚¢B
+end
+select o‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚éê‡
+o‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+ƒjƒ…[ƒX‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+— ƒrƒfƒI‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+ƒŒƒfƒB[ƒXƒRƒ~ƒbƒN‚ð“Ç‚ñ‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é˜b‚ðŒ©‚Â‚¯‚é
+ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚Á‚½˜b‚ð“‚Ý•·‚«‚·‚é
+ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚ð–ÚŒ‚‚·‚é
+end
+scene o‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚ÄƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+¬à‚Ìƒlƒ^‚ð’T‚µ‚Éo‰ï‚¢ŒnƒTƒCƒg‚ð‰{——‚µ‚Ä‚¢‚½[—‚Ì–¼‘O]B
+uƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·v‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚Ä‚È‚É‚©•Ï‚¾‚ÆŽv‚Á‚½B
+’†ŒÃ‚ÌƒZ[ƒ‰[•ž‚ð”ƒ‚¤‚Ì‚È‚ç•’Ê‚Éƒƒ‹ƒJƒŠ‚Å‚à”ƒ‚¦‚é‚Í‚¸‚¾B
+‚í‚´‚í‚´o‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”ƒ‚¤‚Ì‚É‚Í‚È‚É‚©——R‚ª‚ ‚é‚Í‚¸‚¾B
+[—‚Ì–¼‘O]‚Í‹C‚É‚È‚Á‚ÄŒŸõƒ[ƒh‚ð‚¢‚ë‚¢‚ë‚Æ•Ï‚¦‚ÄŒŸõ‚µ‚Ä‚Ý‚½B
+‚·‚é‚Æ— ƒrƒfƒI‚Ì“ŠeƒTƒCƒg‚ÉƒZ[ƒ‰[•ž‚ÌƒRƒXƒvƒŒ‚Åƒ‰ƒuƒzƒeƒ‹‚É˜A‚êž‚Ü‚ê‚é—Žq‘å¶‚ÌƒrƒfƒI‚ðŒ©‚Â‚¯‚½B
+ƒrƒfƒI‚ðŠm‚©‚ß‚Ä‚Ý‚é‚Æ‹i’ƒ“X‚Å—Žq‘å¶‚ª’j‚Æ‘Ò‚¿‡‚í‚¹‚ð‚µ‚ÄƒZ[ƒ‰[•ž‚ð”„‚éê–Ê‚ªÅ‰‚É‰f‚µo‚³‚ê‚½B
+‚»‚Ì‚ ‚Æƒ‰ƒuƒzƒeƒ‹‚ÅƒZ[ƒ‰[•ž‚ÌƒRƒXƒvƒŒ‚Å’j‚É”Æ‚³‚ê‚éƒV[ƒ“‚ª‘±‚¢‚½B
+‚à‚µ‚©‚µ‚½‚ç‚±‚Ì— ƒrƒfƒI‚ÌŽB‰eŽå‚ªo‰ï‚¢ŒnƒTƒCƒg‚Å’†ŒÃ‚ÌƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ð‚µ‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B
+‚»‚ñ‚È‹ô‘R‚ª‚ ‚é‚Í‚¸‚Í‚È‚¢‚ÆŽv‚Á‚½‚ªŽ—‚½‚æ‚¤‚Èo—ˆŽ–‚Í•’Ê‚É‚ ‚é‚Ì‚©‚à‚µ‚ê‚È‚¢B
+end
+scene ƒjƒ…[ƒX‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+¬à‚Ì‘èÞ‚É‚È‚è‚»‚¤‚Èƒjƒ…[ƒX‚ð’T‚µ‚Ä‚¢‚é‚Æ’†ŒÃ‚ÌƒZ[ƒ‰[•ž‚ð”„‚Á‚½—Žq‘å¶‚ª”ƒ‚¢Žè‚Ì’j‚É—–\‚³‚ê‚½‚Æ‚Ì˜b‚ðŒ©‚Â‚¯‚½B
+’†ŒÃ‚ÌƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚Íƒƒ‹ƒJƒŠ‚È‚ñ‚©‚Å‚Í•’Ê‚É‚ ‚é˜b‚¾B
+‘î‹}•Ö‚Å‘—‚ê‚Î‚¢‚¢‚¾‚¯‚È‚Ì‚É‚Ç‚¤‚µ‚Ä—Žq‘å¶‚ª”ƒ‚¢Žè‚Ì’j‚É‰ï‚Á‚½‚Ì‚©•sR‚È‹C‚ª‚µ‚½B
+‚à‚µ‚©‚µ‚ÄÅ‰‚©‚ç—‚ÌŽq‚ð—–\‚·‚é–Ú“I‚ÅƒZ[ƒ‰[•ž‚ð”ƒ‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B
+{o‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+scene — ƒrƒfƒI‚ðŒ©‚Äo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é
+¬à‚Ìƒlƒ^‚É‚È‚è‚»‚¤‚È— ƒrƒfƒI‚Ì“ŠeƒTƒCƒg‚ð‚ ‚ê‚±‚êŒ©‚Ä‚¢‚é‚Æ—Žq‘å¶‚ç‚µ‚¢—‚ÌŽq‚ª‹i’ƒ“X‚ÅƒZ[ƒ‰[•ž‚ð’j‚É”„‚éê–Ê‚ðŒ©‚Â‚¯‚½B
+“ŽBƒrƒfƒI‚ç‚µ‚­‚Ä‚¸‚¢‚Ô‚ñ‚Æ—‚ÌŽq‚Æ’j‚Ì‚â‚è‚Æ‚è‚ªƒŠƒAƒ‹‚¾B
+ƒZ[ƒ‰[•ž‚ð”„‚Á‚½‚ ‚Æ‚Ç‚¤‚È‚é‚Ì‚¾‚ë‚¤‚ÆŽv‚Á‚Ä‘‘—‚è‚·‚é‚Æ—‚ÌŽq‚ªƒZ[ƒ‰[•ž‚ð’…‚Äƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚Ìã‚Å’j‚É”Æ‚³‚ê‚Ä‚¢‚éƒV[ƒ“‚ðŒ©‚Â‚¯‚½B
+’j‚Í‹­ˆø‚É—‚ÌŽq‚ð—Í‚Ã‚­‚Å”Æ‚µ‚Ä‚¢‚é‚ç‚µ‚­‚Ä—‚ÌŽq‚Í•KŽ€‚Å’ïR‚µ‚Ä‚¢‚éB
+‚¾‚ª’j‚ÌàÂàÏ‚ÈƒeƒNƒjƒbƒN‚É•‰‚¯‚½—‚ÌŽq‚Í‘Ì‚ð€‚ç‚¹‚Ä‰x‚Ñ‚Ìº‚ðã‚°Žn‚ß‚½B
+[—‚Ì–¼‘O]‚Í‚Ç‚¤‚µ‚Ä’j‚ª“ŠeƒTƒCƒg‚É‚±‚ñ‚ÈƒrƒfƒI‚ðÚ‚¹‚½‚Ì‚©ˆÓ}‚ðl‚¦‚Ä‚Ý‚½‚ª‚æ‚­”»‚ç‚È‚¢B
+“ŠeƒTƒCƒg‚ÉÚ‚¹‚é‚Æ‚¨‹à‚ª–×‚©‚é‚Ì‚©‚à‚µ‚ê‚È‚¢‚ª‚»‚ê‚¾‚¯‚Æ‚ÍŽv‚¦‚È‚¢B
+{o‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+scene ƒŒƒfƒB[ƒXƒRƒ~ƒbƒN‚ð“Ç‚ñ‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é˜b‚ðŒ©‚Â‚¯‚é
+—[•ûƒX[ƒp[‚Å”ƒ‚¢•¨‚ð‚·‚Ü‚¹‚Ä‹ß“¹‚ð‚µ‚Ä‹ßŠ‚ÌŒö‰€‚ð’Ê‚é‚Æƒxƒ“ƒ`‚Ìã‚ÉƒRƒ~ƒbƒNŽGŽ‚ª’u‚¢‚Ä‚ ‚é‚Ì‚ðŒ©‚Â‚¯‚½B
+‚Ç‚¤‚â‚çƒŒƒfƒB[ƒXƒRƒ~ƒbƒN‚ç‚µ‚¢B
+‚«‚Á‚Æ’N‚©‚ªƒRƒ“ƒrƒj‚Å”ƒ‚Á‚Ä“Ç‚ñ‚¾‚ ‚Æ‰Æ‚ÉŽ‚¿‹A‚ç‚¸‚ÉŽÌ‚Ä‚Äs‚Á‚½‚ç‚µ‚¢B
+Žè‚É‚Æ‚Á‚Ä‚Ý‚é‚Æ‚©‚È‚è‰ßŒƒ‚È“à—e‚¾B
+¬à‚Ìƒlƒ^‚É‚È‚é‚©‚à‚µ‚ê‚È‚¢‚ÆŽv‚Á‚ÄŽ‚¿‹A‚é‚Æ—[H‚Ì‚ ‚ÆƒR[ƒq[‚ðˆù‚Ý‚È‚ª‚ç“Ç‚ñ‚Å‚Ý‚½B
+Å‰‚É‚Å‚Ä‚«‚½‚Ì‚Í—Žq‘å¶‚ª’†ŒÃ‚ÌƒZ[ƒ‰[•ž‚ð”„‚Á‚Ä”ƒ‚¢Žè‚Ì’j‚É—–\‚³‚ê‚é˜b‚¾B
+ƒŒƒfƒB[ƒXƒRƒ~ƒbƒN‚ÉÚ‚é‚­‚ç‚¢‚¾‚©‚ç‚à‚µ‚©‚µ‚½‚çŽÀ˜b‚È‚Ì‚©‚à‚µ‚ê‚È‚¢‚Æ[—‚Ì–¼‘O]‚ÍŽv‚Á‚½B
+{o‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+scene ƒtƒ@[ƒXƒgƒt[ƒh“X‚Åˆê‹x‚Ý‚·‚é
+’‹‹ß‚­‚É–{‰®‚É‚¢‚Á‚½‚ ‚Æ[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼]‚ÅƒR[ƒq[‚ðˆù‚ñ‚Åˆê‹x‚Ý‚µ‚Ä‚¢‚é‚Æ-
+end
+select ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚ð–ÚŒ‚‚·‚éê‡
+ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚É’…‘Ö‚¦‚é
+end
+scene ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚É’…‘Ö‚¦‚é
+’j‚Íˆê“xŽó‚¯Žæ‚Á‚½ƒZ[ƒ‰[•ž‚ð—‚ÌŽq‚É•Ô‚µ‚Ä‚¢‚éB
+—‚ÌŽq‚ÍƒZ[ƒ‰[•ž‚ð‚à‚Á‚ÄÈ‚ð—§‚Â‚ÆƒgƒCƒŒ‚É‚¢‚Á‚½‚ç‚µ‚¢B
+‚µ‚Î‚ç‚­‚µ‚Ä—‚ÌŽq‚ÍƒZ[ƒ‰[•ž‚É’…‘Ö‚¦‚Ä–ß‚Á‚Ä‚«‚½B
+ƒXƒJ[ƒg‚Ìä‚ª•ª‚Æ’Z‚­‚Ä‚æ‚Á‚Û‚Ç‚¨Ÿ­—Ž‚©—V‚ñ‚Å‚¢‚é—Žq‚¶‚ÉŒ©‚¦‚éB
+”¯‚à—Žq‚¶‚ç‚µ‚¢ƒcƒCƒ“ƒe[ƒ‹‚É‚µ‚Ä‚éB
+end
+scene ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚Á‚½˜b‚ð“‚Ý•·‚«‚·‚é
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌÝ’è}
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚Åˆê‹x‚Ý‚·‚é}
+—×‚ÌÈ‚Ì—Žq‘å¶‚ç‚µ‚¢—‚ÌŽq’B‚Ì‰ï˜b‚ªŽ¨‚É“ü‚Á‚½B
+‚Ç‚¤‚â‚ço‰ï‚¢ŒnƒTƒCƒg‚Å’m‚è‡‚Á‚½’j«‚É‚Z¶‚ÌŽž‚ÌƒZ[ƒ‰[•ž‚ð”„‚Á‚ÄŒ‹\‚È‚¨‹à‚É‚È‚Á‚½‚ç‚µ‚¢B
+ƒZ[ƒ‰[•ž‚ð”„‚é‚¾‚¯‚Å‚»‚ñ‚È‚É‚¨‹à‚É‚È‚é‚Í‚¸‚Í‚È‚¢‚Ì‚Å‚Ç‚¤‚à•Ï‚¾‚Æ[—‚Ì–¼‘O]‚ÍŽv‚Á‚½B
+‰Æ‚É–ß‚é‚Æ-
+{o‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+scene ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚ð–ÚŒ‚‚·‚é
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌÝ’è}
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚Åˆê‹x‚Ý‚·‚é}
+—×‚ÌÈ‚É—Žq‘å¶‚ç‚µ‚¢—‚ÌŽq‚ªÀ‚Á‚½B
+—‚ÌŽq‚ÍŒg‘Ñ‚ðŽæ‚èo‚µ‚Ä’N‚©‚Æ˜A—‚µ‚Ä‚¢‚é—lŽq‚¾‚Á‚½‚ª‚µ‚Î‚ç‚­‚µ‚Ä’†”N‚Ì’j‚ª—‚ÌŽq‚Éº‚ð‚©‚¯‚½B
+‘Ò‚¿‡‚í‚¹‚ç‚µ‚¢‚ª‚Ç‚¤‚à—lŽq‚ª•Ï‚¾B
+—‚ÌŽq‚ÍŽ†‘Ü‚ðŽæ‚èo‚µ‚Ä’j‚É“n‚µ‚Ä‚¢‚éB
+’j‚ªŽ†‘Ü‚ðŠJ‚¯‚Ä’†‚ðŠm‚©‚ß‚Ä‚¢‚é‚ª‚Ç‚¤‚â‚çƒZ[ƒ‰[•ž‚ç‚µ‚¢B
+’j‚ªà•z‚ðŽæ‚èo‚·‚Æ‚©‚È‚è‚Šz‚È‹àŠz‚ð—‚ÌŽq‚É“n‚µ‚Ä‚¢‚éB
+ƒZ[ƒ‰[•ž‚Ì‘ã‹à‚É‚µ‚Ä‚Í‚Ç‚¤l‚¦‚Ä‚à‚‚·‚¬‚éB
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚Å—Žq‘å¶‚ªƒZ[ƒ‰[•ž‚ð”„‚é‚Ì‚ð–ÚŒ‚‚·‚éê‡}
+“ñl‚ÍÈ‚ð—§‚Á‚Ä[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼]‚ðo‚Ä‚¢‚Á‚½‚ª‚Ç‚¤l‚¦‚Ä‚à•Ï‚¾B
+‰Æ‚É–ß‚é‚Æ-
+{o‰ï‚¢ŒnƒTƒCƒg‚ð’²‚×‚Ä‚Ý‚é‚ÆƒZ[ƒ‰[•ž‚ð”ƒ‚¢‚Ü‚·‚Æ‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚é}
+end
+select ‰Ÿ‚µ“ü‚ê‚Ì‰œ‚ÉƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚·ê‡
+Œ‹¥Ž®‚Ì—]‹»‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+ŒÃ’…‰®‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+ƒtƒŠ[ƒ}[ƒPƒbƒg‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+ƒnƒƒEƒBƒ“‚Ì‰¼‘•‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+’j—F’B‚É‚à‚ç‚Á‚½ƒvƒŒ[—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+‚r‚m‚r‚ÉŽÊ^‚ðÚ‚¹‚é‚Æ‚«‚ÉŽg‚Á‚½ƒRƒXƒvƒŒ—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+end
+scene Œ‹¥Ž®‚Ì—]‹»‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+[—‚Ì–¼‘O]‚Í‚Â‚¢‚±‚ÌŠÔŒ‹¥Ž®‚Ì—]‹»‚Å—ˆ‚½ƒZ[ƒ‰[•ž‚ª‚Ü‚¾‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½B
+{—ŽqZ‚Ì–¼Ì‚ÌÝ’è}
+[—‚Ì–¼‘O]‚ÌogZ‚Ì[ŠwZ‚Ì–¼Ì]‚Ì§•ž‚ÌƒZ[ƒ‰[•ž‚¾B
+end
+scene ŒÃ’…‰®‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+[—‚Ì–¼‘O]‚ÍˆÈ‘OŒÃ’…‰®‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½B
+{—ŽqZ‚Ì–¼Ì‚ÌÝ’è}
+‹ô‘RŒ©‚Â‚¯‚½[ŠwZ‚Ì–¼Ì]‚Ì§•ž‚ÌƒZ[ƒ‰[•ž‚¾B
+end
+scene ƒtƒŠ[ƒ}[ƒPƒbƒg‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+[—‚Ì–¼‘O]‚ÍˆÈ‘OƒtƒŠ[ƒ}[ƒPƒbƒg‚ÉŽæÞ‚És‚Á‚½‚Æ‚«‚É‹ô‘RŒ©‚Â‚¯‚Ä”ƒ‚Á‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½B
+{—ŽqZ‚Ì–¼Ì‚ÌÝ’è}
+–{•¨‚Ì[ŠwZ‚Ì–¼Ì]‚Ì§•ž‚ÌƒZ[ƒ‰[•ž‚¾B
+‰½‚©Žg‚¢“¹‚ª‚ ‚é‚ÆŽv‚Á‚Ä”ƒ‚Á‚Ä‚¨‚¢‚½ƒZ[ƒ‰[•ž‚ª–ð‚É—§‚ÂŽž‚ª—ˆ‚½B
+end
+scene ƒnƒƒEƒBƒ“‚Ì‰¼‘•‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+[—‚Ì–¼‘O]‚Í‹Ž”NƒnƒƒEƒBƒ“‚Ì‰¼‘•‚Å’…‚½ƒZ[ƒ‰[•ž‚ª‚Ü‚¾‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½B
+{—ŽqZ‚Ì–¼Ì‚ÌÝ’è}
+ŒÃ’…‰®‚Å‹ô‘RŒ©‚Â‚¯‚½[ŠwZ‚Ì–¼Ì]‚Ì§•ž‚ÌƒZ[ƒ‰[•ž‚¾B
+end
+scene ’j—F’B‚É‚à‚ç‚Á‚½ƒvƒŒ[—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+{‘ŠŽè‚Ì’j‚Q‚Íæ”y‚Ì¬à‰Æ‚ÌÝ’è}
+[—‚Ì–¼‘O]‚ÍˆÈ‘Oæ”y‚Ì¬à‰Æ‚Ì[’j‚Q‚Ì–¼Žš][’j‚Q‚Ì–¼‘O]‚É‚à‚ç‚Á‚½ƒvƒŒ[—p‚ÌƒZ[ƒ‰[•ž‚ª‚Ü‚¾‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½B
+¬à‚ÌŽQl‚É‚µ‚½‚¢‚ÆŒ¾‚í‚ê‚Ä“ñl‚Å—Žq‚¶‚Ì‰‡•ŒðÛ‚ÌƒCƒ[ƒWƒvƒŒ[‚ð‚µ‚½Žž‚ÉŽg‚Á‚½ƒZ[ƒ‰[•ž‚¾B
+{—ŽqZ‚Ì–¼Ì‚ÌÝ’è}
+[’j‚Q]‚ªŒÃ’…‰®‚Å‹ô‘RŒ©‚Â‚¯‚Ä‚«‚½–{•¨‚Ì[ŠwZ‚Ì–¼Ì]‚Ì§•ž‚¾B
+end
+scene ‚r‚m‚r‚ÉŽÊ^‚ðÚ‚¹‚é‚Æ‚«‚ÉŽg‚Á‚½ƒRƒXƒvƒŒ—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½
+[—‚Ì–¼‘O]‚ÍˆÈ‘O‚r‚m‚r‚ÉŽÊ^‚ðÚ‚¹‚é‚Æ‚«‚ÉŽg‚Á‚½ƒRƒXƒvƒŒ—p‚ÌƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚µ‚½B
+{—ŽqZ‚Ì–¼Ì‚ÌÝ’è}
+ƒƒ‹ƒJƒŠ‚Å”ƒ‚Á‚½–{•¨‚Ì[ŠwZ‚Ì–¼Ì]‚Ì§•ž‚ÌƒZ[ƒ‰[•ž‚¾B
+end
+scene ——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é
+{Í”Ô†}
+{ŒfŽ¦”Â‚ÅƒZ[ƒ‰[•ž‚ð”„‚éÝ’è}
+{o‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž”ƒ‚¢‚Ü‚·‚Ì‘‚«ž‚Ý‚ðŒ©‚Â‚¯‚éê‡}
+{‰Ÿ‚µ“ü‚ê‚Ì‰œ‚ÉƒZ[ƒ‰[•ž‚ª‚ ‚é‚Ì‚ðŽv‚¢o‚·ê‡}
+o‰ï‚¢ŒnƒTƒCƒg‚Ì’j‚É˜A—‚ð‚·‚é‚Æ‚µ‚Î‚ç‚­‚½‚Á‚ÄƒZ[ƒ‰[•ž‚ÌŽÊ^‚ð‘—‚Á‚Ä—ˆ‚é‚æ‚¤‚É‚Æ•ÔŽ–‚ª‚«‚½B
+ŽÀÛ‚É’…‚Ä‚¢‚éŠ‚ðŽÊ^‚ÉŽB‚Á‚Ä‘—‚é‚æ‚¤‚É—v‹‚³‚ê‚Ä[—‚Ì–¼‘O]‚Í‚±‚ê‚Í•Ï‚¾A‚«‚Á‚Æ‰½‚©‚ ‚é‚Æ’¼Š´‚µ‚½B
+‰Ÿ‚µ“ü‚ê‚Ì‰œ‚­‚©‚çƒZ[ƒ‰[•ž‚ðŽæ‚èo‚µ‚Ä’…‚Ä‚Ý‚é‚Æ­‚µƒEƒFƒXƒg‚ª‚«‚Â‚¢‚ª‚È‚ñ‚Æ‚©’…‚ê‚½B
+Œg‘Ñ‚ÅŽÊ^‚É‚Æ‚Á‚Äo‰ï‚¢ŒnƒTƒCƒg‚Ì[’j]‚É‘—M‚·‚é‚ÆŒ‹\‚È’l’i‚Å”ƒ‚¢Žæ‚Á‚Ä‚­‚ê‚é‚Ì‚Å‚Ü‚·‚Ü‚·‰ö‚µ‚¢‚ÆŽv‚Á‚½B
+{ƒtƒ@[ƒXƒgƒt[ƒh“X‚ÌÝ’è}
+[’j]‚ª’¼Ú‰ï‚Á‚ÄƒZ[ƒ‰[•ž‚ðŠm”F‚µ‚Ä‚©‚ç‹à‚ð•¥‚¤‚ÆŒ¾‚¤‚Ì‚Å—‚“úa’J‚ÌƒZƒ“ƒ^[ŠX‚Ì[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼]‚Å‘Ò‚¿‡‚í‚¹‚ð‚·‚é‚±‚Æ‚É‚È‚Á‚½B
+{Í”Ô†}
+{ŒÃ’…‚ð”„‚é‚½‚ß‚É‘Ò‚¿‡‚í‚¹‚ð‚·‚é}
+{Œö‰€‚ÅŒÃ’…‚ð’…‚ÄŽB‰e‚Ì‚ ‚Æƒ‰ƒuƒzƒeƒ‹‚ÅŽB‰e}
+end
+scene ŒÃ’…‚ð”„‚é‚½‚ß‚É‘Ò‚¿‡‚í‚¹‚ð‚·‚é
+[—‚Ì–¼‘O]‚Í­‚µ‘‚ß‚É[ƒtƒ@[ƒXƒgƒt[ƒh“X–¼]‚És‚Á‚Ä[’j]‚ª—ˆ‚é‚Ì‚ð‘Ò‚Á‚½B
+–ñ‘©‚ÌŽžŠÔ‚É­‚µ’x‚ê‚½‚±‚ë‚ÉuŒN‚ª[—‚Ìˆ¤Ì]‚¾‚Ëv‚Æ”ƒ‚¢Žè‚ç‚µ‚¢[’j]‚Éº‚ð‚©‚¯‚ç‚ê‚½B
+‚È‚ñ‚Å[’j]‚Ìl‚ª[ŒÃ’…]‚ð”ƒ‚¢‚½‚¢‚Ì‚©ŽæÞ‚µ‚Ä——R‚ð“Ë‚«Ž~‚ß‚æ‚¤‚Æ[—‚Ì–¼‘O]‚ÍŽv‚Á‚½B
+u‚Í‚¢‚»‚¤‚Å‚·v‚Æ[—‚Ì–¼‘O]‚ª•ÔŽ–‚·‚é‚Æ‚·‚®‚É[’j]‚Íu‚³‚Á‚»‚­‚¾‚¯‚Ç•i•¨‚ðŠm‚©‚ß‚³‚¹‚Ä‚à‚ç‚¤‚æv‚Æ—vŒ‚É“ü‚Á‚½B
+[—‚Ì–¼‘O]‚ª[ŒÃ’…‚Ìà–¾]‚ð“ü‚ê‚½Ž†‘Ü‚ð“n‚·‚Æ[’j]‚ª’†g‚ðŠm‚©‚ß‚Ä‚©‚ç‚¨‹à‚ð“n‚µ‚Ä‚­‚ê‚½B
+u‚Æ‚±‚ë‚Å[—‚Ìˆ¤Ì]‚à‚Á‚Æ‚¨‹à‚ª—~‚µ‚­‚È‚¢‚©‚Èv‚Æ[’j]‚ªŒ¾‚¢o‚µ‚½‚Ì‚Å[—‚Ì–¼‘O]‚Í‚â‚Á‚Ï‚è‚ÆŽv‚Á‚½B
+‚¾‚ªA‰‡•ŒðÛ‚¾‚Á‚½‚ç‚¤‚Á‚©‚è˜b‚É‚Íæ‚ê‚È‚¢B
+u‚¨‹à‚ª‚à‚ç‚¦‚é‚È‚ç‚»‚Ì•û‚ª‚¢‚¢‚Å‚·‚¯‚Çv‚Æ“š‚¦‚Ä[—‚Ì–¼‘O]‚Í[’j]‚ª‰½‚ðŒ¾‚¢o‚·‚Ì‚©Šm‚©‚ß‚æ‚¤‚ÆŽv‚Á‚½B
+u‚»‚ê‚Í‚¿‚å‚¤‚Ç‚æ‚©‚Á‚½A‚±‚Ì[ŒÃ’…]‚ð’…‚ÄƒrƒfƒI‚ðŽB‚ç‚¹‚Ä–á‚¦‚é‚©‚Èv‚Æ[’j]‚ÉŒ¾‚í‚ê‚ÄƒrƒfƒI‚ðŽB‚é‚¾‚¯‚ÅÏ‚Þ‚Í‚¸‚Í‚È‚¢‚Æ[—‚Ì–¼‘O]‚ÍŽv‚Á‚½‚ªŽæÞ‚Ì‚½‚ß‚É‚Í—U‚¢‚É‰ž‚¶‚é‚µ‚©‚È‚¢B
+{ƒrƒfƒIŽB‰e‚ÌÝ’è}
+{ƒAƒ_ƒ‹ƒgƒrƒfƒI‚Ì‚Šz‚Èo‰‰—¿‚ÌÝ’è}
+u[—‚Ìˆ¤Ì]‚Í‚Æ‚Á‚Ä‚à‰Âˆ¤‚¢‚©‚çA[ŒÃ’…]‚ð’…‚ÄƒrƒfƒI‚ðŽB‚ç‚¹‚Ä–á‚¦‚½‚ç[%DƒAƒ_ƒ‹ƒgƒrƒfƒI‚Ìo‰‰—¿]–œ‰~o‚·‚æv‚Æ[’j]‚ÉŒ¾‚í‚ê‚Ä[—‚Ì–¼‘O]‚Í‚È‚é‚Ù‚Ç‚ÆŽv‚Á‚½B
+[%DƒAƒ_ƒ‹ƒgƒrƒfƒI‚Ìo‰‰—¿]–œ‰~‚Æ•·‚¢‚½‚ç•’Ê‚Ì—Žq‚¾‚Á‚½‚ç‘åŠì‚Ñ‚Åˆø‚«Žó‚¯‚é‚Éˆá‚¢‚È‚¢‚ÆŽv‚Á‚½B
+u–{“–‚ÉƒrƒfƒIŽB‚é‚¾‚¯‚È‚ñ‚Å‚·‚©v‚Æ[—‚Ì–¼‘O]‚Íˆê‰ž[’j]‚ÉŠm‚©‚ß‚Ä‚Ý‚½B
+u‚à‚¿‚ë‚ñ‚¾‚æAƒrƒfƒIŽB‚é‚¾‚¯‚Å[%DƒAƒ_ƒ‹ƒgƒrƒfƒI‚Ìo‰‰—¿]–œ‰~•¥‚¤‚ñ‚¾‚©‚ç‚±‚ñ‚È‚¢‚¢˜b‚Í‚È‚¢‚¾‚ë‚¤v‚Æ[’j]‚ª“š‚¦‚½‚ª[—‚Ì–¼‘O]‚Í‚»‚ê‚¾‚¯‚Å‚È‚¢‚Í‚¸‚¾‚ÆŠmM‚µ‚½B
+u‚¶‚á‚ A‚¨Šè‚¢‚µ‚Ü‚·v‚Æ[—‚Ì–¼‘O]‚Í‚Æ‚è‚ ‚¦‚¸[’j]‚Ì—U‚¢‚É‰ž‚¶‚½B
+u‚»‚ê‚¶‚á‚ Aˆê‚É—ˆ‚Ä–á‚¦‚é‚æ‚Ëv‚Æ[’j]‚ÉŒ¾‚í‚ê‚Ä[—‚Ì–¼‘O]‚Íu‚Í‚¢v‚Æ“š‚¦‚½B
+end
+scene Œö‰€‚ÅŒÃ’…‚É’…‘Ö‚¦‚ÄŽB‰e‚ð‚·‚é
+[’j]‚Æˆê‚É-
+{êŠ‚Ì‹Lq}
+‚ðo‚é‚ÆA-
+{Œö‰€‚ÌêŠ‚ÌÝ’è}
+‹ß‚­‚Ì[êŠ]‚É˜A‚ê‚Ä—ˆ‚ç‚ê‚½B
+u‚»‚±‚ÌƒgƒCƒŒ‚Å’…‘Ö‚¦‚Ä‚­‚ê‚é‚©‚Èv‚Æ[’j]‚ÉŒ¾‚í‚ê‚ÄŒö‰€‚Ì‰œ‚Ì‘½–Ú“IƒgƒCƒŒ‚Å’…‘Ö‚¦‚é‚ÆA‚³‚Á‚»‚­ŽB‰e‚ªŽn‚Ü‚Á‚½B
+u‚¶‚á‚ A‚»‚±‚Ìƒuƒ‰ƒ“ƒR‚Éæ‚Á‚Ä‚Ý‚æ‚¤‚©v‚Æ[’j]‚ªŽwŽ¦‚µ‚Ä‚«‚½B
+[—‚Ì–¼‘O]‚ªƒuƒ‰ƒ“ƒR‚Éæ‚Á‚ÄŒy‚­‘†‚®‚ÆA[’j]‚ÍƒrƒfƒIŽB‰e‚ð‘±‚¯‚½B
+[’j]‚ÍŽB‰e‚ÉŠµ‚ê‚½—lŽq‚ÅAu‚»‚±‚Å‚¿‚å‚Á‚Æ”÷Î‚ñ‚ÅŒä——A‚»‚¤‰Âˆ¤‚¢‚æv‚ÆI‚Ý‚É[—‚Ì–¼‘O]‚Éº‚ð‚©‚¯‚È‚ª‚çŠŠ‚è‘ä‚âƒV[ƒ\[‚ÅŽB‰e‚ð‘±‚¯‚½B
+end
+scene •Ê‚ÌêŠ‚ÅŽB‰e‚ð‚·‚é‚ÆŒ¾‚í‚ê‚é
+u‚¶‚á‚ A•Ê‚ÌêŠ‚ÅŽB‰e‚·‚é‚©‚ç—ˆ‚Ä–á‚¨‚¤‚©v‚Æ[’j]‚ªŒ¾‚¢o‚µ‚½B
+end
+scene ŽB‰e‚Ì‚½‚ß‚Éƒ‰ƒuƒzƒeƒ‹‚É˜A‚ê‚Ä—ˆ‚ç‚ê‚é
+[’j]‚Æˆê‚É[êŠ]‚ðo‚é‚Æ•Ï‚ÈŒš•¨‚Ì‘O‚É˜A‚ê‚Ä—ˆ‚ç‚ê‚½B-
+{ŽB‰e‚Ì‚½‚ß‚Éƒ‰ƒuƒzƒeƒ‹‚ÉˆÄ“à‚³‚ê‚é}
+uŽB‰e‚É‚Í‚¿‚å‚¤‚Ç‚¢‚¢‚ñ‚¾A[%DƒAƒ_ƒ‹ƒgƒrƒfƒI‚Ìo‰‰—¿]–œ‰~—~‚µ‚¢‚ñ‚¾‚ë‚¤v‚Æ[’j]‚ÉŒ¾‚í‚ê‚½B
+ƒ‰ƒuƒzƒeƒ‹‚É[’j]‚Æˆê‚É“ü‚é‚Ì‚ÍŠë‚È‚¢‹C‚ª‚µ‚½‚ªŽæÞ‚Ì‚½‚ß‚É‚ÍŽd•û‚È‚¢B
+end
+scene ƒ‰ƒuƒzƒeƒ‹‚Ì•”‰®‚É“ü‚é
+•”‰®‚É“ü‚é‚Æ’†‚ÍŽv‚Á‚½‚æ‚èL‚­‚ÄA’†‰›‚É‘å‚«‚Èƒxƒbƒh‚ª’u‚¢‚Ä‚ ‚èA—§”h‚Èƒ\ƒtƒ@[‚à‚ ‚éB
+end
+select ƒ‰ƒuƒzƒeƒ‹‚ÅŒÃ’…‚ð’…‚ÄŽB‰e‚·‚éê‡
+ƒ‰ƒuƒzƒeƒ‹‚ÅƒrƒfƒI‚ÌŽB‰e‚ð‚µ‚Ä’²‹³‚³‚ê‚é
+ƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚ÅŽB‰e‚ð‚·‚é
+end
+scene ƒ‰ƒuƒzƒeƒ‹‚ÅƒrƒfƒI‚ÌŽB‰e‚ð‚µ‚Ä’²‹³‚³‚ê‚é
+{ƒ‰ƒuƒzƒeƒ‹‚Ì•”‰®‚ÅŽB‰e‚ð‚·‚é}
+u‚¶‚á‚ A‚±‚Á‚¿‚Ì•”‰®‚É—ˆ‚Ä‚à‚ç‚¦‚é‚©‚Èv‚«[’j]‚ÉŒ¾‚í‚ê‚Ä‰œ‚Ì•”‰®‚É“ü‚é‚Æ‰½‚¾‚©•Ï‚¾B“SŠiŽq‚ª‚ ‚Á‚Ä‚»‚Ì‰œ‚É•Ï‚ÈŒ`‚ÌˆÖŽq‚ª’u‚¢‚Ä‚ ‚éB
+{Ÿ¯’°—p‚Ì’²‹³Ší‹ï‚ÌÝ’è}
+‚Ç‚¤‚â‚ç[’²‹³Ší‹ï‚Ìà–¾][’²‹³Ší‹ï]‚ç‚µ‚¢B
+u‚È‚ñ‚Å‚·‚©‚±‚êA‚È‚ñ‚Å‚±‚ñ‚ÈˆÖŽq‚ª‚ ‚é‚ñ‚Å‚·‚©v‚Æ[—‚Ì–¼‘O]‚Í[’j]‚ð–â‚¢‹l‚ß‚½B
+u‚¢‚¢‚©‚ç‚±‚±‚ÉÀ‚é‚ñ‚¾A[%DƒAƒ_ƒ‹ƒgƒrƒfƒI‚Ìo‰‰—¿]–œ‰~—~‚µ‚¢‚ñ‚¾‚ë‚¤v‚Æ[’j]‚Í•½‘R‚Æ‚µ‚½Šç‚ð‚µ‚Ä‚¢‚éB
+‚¢‚­‚ç‚¨ŽæÞ‚Æ‚ÍŒ¾‚¦A‚±‚ñ‚È•Ï‘Ô‚Ì‘ŠŽè‚È‚ñ‚©‚µ‚Ä‚ç‚ê‚È‚¢B
+uŽ„‹A‚è‚Ü‚·BŽ¸—ç‚¢‚½‚µ‚Ü‚·v‚ÆŒ¾‚Á‚Ä[—‚Ì–¼‘O]‚Í•”‰®‚©‚ço‚æ‚¤‚Æ‚µ‚½B
+‚¾‚ª[’j]‚Íu‚¨‚¢B‹A‚ê‚é–ó‚È‚¢‚¾‚ë‚¤A‚Â‚×‚±‚×Œ¾‚¤‚ñ‚¶‚á‚Ë‚¦v‚ÆŒ¾‚¤‚Æ—Í‚Ã‚­‚Å[’²‹³Ší‹ï]‚É[—‚Ì–¼‘O]‚ð”›‚è•t‚¯‚½B
+u‚â‚ß‚Ä‰º‚³‚¢A‚¨‹à‚Í‚¢‚è‚Ü‚¹‚ñ‚©‚ç‹A‚µ‚Ä‰º‚³‚¢v‚Æ[—‚Ì–¼‘O]‚Í•KŽ€‚Å’ïR‚µ‚½‚ª[’j]‚Ì—Í‚É‚Í‚Æ‚Ä‚à‚©‚È‚í‚È‚¢B
+u‚±‚ê‚©‚ç‚Í‰´‚Ì–½—ß‚É‚Í‰½‚Å‚à]‚Á‚Ä‚à‚ç‚¤‚©‚ç‚ÈAˆêŒ¾‚Å‚à‹t‚ç‚Á‚½‚ç‚¨Žd’u‚«‚¾v‚Æ[’j]‚ª[—‚Ì–¼‘O]‚ð“{–Â‚è‚Â‚¯‚Ä‚«‚½B
+u”nŽ­‚ÈŽ–Œ¾‚í‚È‚¢‚Å‰º‚³‚¢B‚¨Žd’u‚«‚Á‚Ä‚È‚ñ‚Ì‚±‚Æ‚Å‚·‚©v‚Æ[—‚Ì–¼‘O]‚Í•KŽ€‚É‚È‚Á‚Ä[’j]‚ÉŒ¾‚¢•Ô‚µ‚½B
+uÅ‰‚Ì‚¨Žd’u‚«‚ÍƒXƒpƒ“ƒLƒ“ƒO‚¾A‚½‚Á‚Õ‚è’É‚¢–Ú‚É‘˜‚í‚¹‚Ä‚â‚é‚ºv‚Æ[’j]‚Í[—‚Ì–¼‘O]‚Ì–â‚¢‚É‘åº‚Å“š‚¦‚½
+uƒXƒpƒ“ƒLƒ“ƒO‚Á‚Ä‚È‚ñ‚Å‚·‚©B‚â‚ß‚Ä‰º‚³‚¢’É‚¢‚Ì‚Í‚â‚Å‚·v‚Æ[—‚Ì–¼‘O]‚Í[’j]‚ÉŒ¾‚¢•Ô‚µ‚½B
+[’j]‚ªƒXƒŠƒbƒp‚ðŽè‚ÉŽæ‚é‚Æu‚¤‚é‚¹‚¦B‚Â‚×‚±‚×Œ¾‚¤‚ñ‚¶‚á‚Ë‚¦v‚ÆŒ¾‚¢‚È‚ª‚ç[—‚Ì–¼‘O]‚Ì‚¨K‚ðŽv‚¢Ø‚è‚Â‚æ‚­’@‚«‚Â‚¯‚½B
+u-
+{’²‹³Žž‚Ì”ß–Â}
+v‚Æ[—‚Ì–¼‘O]‚ª‹©‚Ñº‚ðã‚°‚é‚Æ[’j]‚Í’²Žq‚É‚Ì‚Á‚Ä[—‚Ì–¼‘O]‚Ì‚¨K‚ð’@‚«‘±‚¯‚½B
+[—‚Ì–¼‘O]‚Í’É‚³‚É‘Ï‚¦‚«‚ê‚¸‚É‰¹‚ðã‚°‚Äu‰½‚Å‚àŒ¾‚¤‚±‚Æ‚ð•·‚«‚Ü‚·‚©‚ç‹–‚µ‚Ä‚­‚¾‚³‚¢v‚ÆŒ¾‚¤‚µ‚©‚È‚©‚Á‚½B
+u‚¶‚á‚ A[’j««Ší‚Ìˆ¤Ì]‚Ô‚¿ž‚ñ‚Å‚­‚¾‚³‚¢‚ÆŒ¾‚¤‚ñ‚¾‚Èv‚Æ[’j]‚ª[—‚Ì–¼‘O]‚É—â‚½‚­Œ¾‚¢•ú‚Á‚½B
+u‚¾‚ßB‚»‚ñ‚È‚Ìâ‘Îƒ_ƒ‚Å‚·v‚Æ[—‚Ì–¼‘O]‚ªŒ¾‚¢•Ô‚·‚ÆuŒ¾‚í‚È‚¢‚È‚çAŒ¾‚¤‚Ü‚Å‚¨Žd’u‚«‚¾‚¼A‚»‚ê‚Å‚¢‚¢‚ñ‚¾‚Èv‚Æ‹­‚¢‘Ô“x‚ð•ö‚»‚¤‚Æ‚µ‚È‚¢B
+uŒ¾‚¢‚Ü‚·‚©‚ç‹–‚µ‚ÄB[’j««Ší‚Ìˆ¤Ì]‚Ô‚¿ž‚ñ‚Å‚­‚¾‚³‚¢‚Ü‚¹v‚Æ[—‚Ì–¼‘O]‚ÍŒ¾‚¤‚µ‚©‚È‚©‚Á‚½B
+u¡Œ¾‚Á‚½Œ¾—t‚ð‚æ‚­Šo‚¦‚Ä‚¨‚­‚ñ‚¾‚ÈBŽv‚¢’Ê‚è‚É‚µ‚Ä‚â‚é‚ºv‚Æ[’j]‚ÍŸ‚¿ŒÖ‚Á‚½‚æ‚¤‚É‘åº‚Å‹©‚ñ‚¾B
+{³íˆÊ‚ÌƒŒƒCƒv}
+end
+scene ƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚ÅŽB‰e‚ð‚·‚é
+{ƒ‰ƒuƒzƒeƒ‹‚Ì•”‰®‚ÅŽB‰e‚ð‚·‚é}
+{ƒxƒbƒh‚ÉQ‚ÄƒGƒbƒ`‚ÈŽˆ‘Ì‚ðŽB‰e‚·‚é}
+{ƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚ÅŽB‰e‚ð‚·‚éê‡}
+end
+scene Œö‰€‚ÅŒÃ’…‚ð’…‚ÄŽB‰e‚Ì‚ ‚Æƒ‰ƒuƒzƒeƒ‹‚ÅŽB‰e
+{Œö‰€‚ÅŒÃ’…‚É’…‘Ö‚¦‚ÄŽB‰e‚ð‚·‚é}
+{•Ê‚ÌêŠ‚ÅŽB‰e‚ð‚·‚é‚ÆŒ¾‚í‚ê‚é}
+{ŽB‰e‚Ì‚½‚ß‚Éƒ‰ƒuƒzƒeƒ‹‚É˜A‚ê‚Ä—ˆ‚ç‚ê‚é}
+{ƒ‰ƒuƒzƒeƒ‹‚Ì•”‰®‚É“ü‚é}
+u‚¶‚á‚ A‚»‚Ìƒ\ƒtƒ@[‚ÉÀ‚Á‚Ä–á‚¦‚é‚©‚Èv‚Æ[’j]‚ªŽwŽ¦‚µ‚Ä‚«‚½B
+[—‚Ì–¼‘O]‚ªƒ\ƒtƒ@[‚ÉÀ‚é‚Æ’j‚Í‚·‚®‚ÉŽB‰e‚ðŽn‚ß‚½B
+{ƒ‰ƒuƒzƒeƒ‹‚ÅŒÃ’…‚ð’…‚ÄŽB‰e‚·‚éê‡}
+end
+select ƒ‰ƒuƒzƒeƒ‹‚Ìƒxƒbƒh‚ÅŽB‰e‚ð‚·‚éê‡
+’j‚ª‚¢‚«‚È‚è‘Ì‚ðd‚Ë‚Ä—ˆ‚é
+end
+scene ’j‚ª‚¢‚«‚È‚è‘Ì‚ðd‚Ë‚Ä—ˆ‚é
+u‚È‚ñ‚Ì‚Â‚à‚è‚È‚ñ‚Å‚·‚©v‚Æ[—‚Ì–¼‘O]‚ª[’j]‚ð–â‚¢‹l‚ß‚æ‚¤‚Æ‚µ‚½‚Æ‚«A[’j]‚Í‚¢‚«‚È‚è[—‚Ì–¼‘O]‚Ìã‚É‘Ì‚ðd‚Ë‚Ä—ˆ‚½B
+{³íˆÊ‚ÌƒZƒbƒNƒX}
 end
 scene ŽB‰e‚Ì‚½‚ß‚É‰œ‚Ì•”‰®‚ÉˆÄ“à‚³‚ê‚é
 u‚±‚Á‚¿‚Ì•”‰®‚É—ˆ‚Ä‚à‚ç‚¦‚é‚©‚Èv‚Æ[’j]‚ÉˆÄ“à‚³‚ê‚Ä[—‚Ì–¼‘O]‚ÍƒŒƒW‚Ì‰œ‚É“ü‚Á‚½B
@@ -10446,6 +11040,7 @@ select ——¬ì‰Æ‚ª“X‚ÉŽæÞ‚És‚­
 ——¬ì‰Æ‚ª— ƒrƒfƒIƒVƒ‡ƒbƒv‚ÉŽæÞ‚És‚­
 ——¬ì‰Æ‚ª˜b‘èì‚è‚Ì‚½‚ß— ƒrƒfƒI‚ÌŽB‰e‚ð‚·‚é
 ——¬ì‰Æ‚ªŒ´h‚ÉŽæÞ‚És‚­
+——¬ì‰Æ‚ªo‰ï‚¢ŒnƒTƒCƒg‚ÅƒZ[ƒ‰[•ž‚ð”„‚é
 end
 scene ƒoƒCƒuŽg‚¦‚Æ“n‚³‚ê‚é
 {ƒoƒCƒuƒŒ[ƒ^‚ÌÝ’è}
@@ -17575,6 +18170,11 @@ scene ‘ŠŽè‚Ì’j‚ÍŽÐ’·‚³‚ñ
 end
 scene ‘ŠŽè‚Ì’j‚Í’j
 ’j-
+end
+set ‘ŠŽè‚Ì’j‚Q‚Íæ”y‚Ì¬à‰Æ‚ÌÝ’è
+[’j‚Q‚ÌE‹Æ=æ”y‚Ì¬à‰Æ]
+{’j‚Q‚Ì–¼Žš‚ÌÝ’è}
+{’j‚Q‚Ì–¼‘O‚ÌÝ’è}
 end
 set ‘ŠŽè‚Ì’j‚Q‚Í—×‚Ì•”‰®‚ÌZl‚ÌÝ’è
 [’j‚Q=’j]
